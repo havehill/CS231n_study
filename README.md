@@ -27,7 +27,7 @@
     * Lecture 8 | Deep Learning Software
     * Lecture 9 | CNN Architectures
 * 시청 이후 흥미로운 사실이나 질문 사항을 아래 설문을 통해 작성합니다.
-    * 추후 오픈 예정
+    * [설문 조사 링크](https://forms.gle/xGHBMjkTgrAZg3Hs8)
 
 # Assignment #2 study materials
 * [Assignment 2 Info](https://cs231n.github.io/assignments2022/assignment2/)
@@ -36,8 +36,8 @@
 
 # 질문 설문 링크
 * 설문 링크는 02/10(금) 공개됩니다.
-    * 추후 오픈 예정
-* 모든 분들은 답을 **02/12(일)** 까지 해주세요. 이후, 발표 주제를 사다리타기로 뽑을 예정입니다.
+    * [설문 조사 링크](https://forms.gle/xGHBMjkTgrAZg3Hs8)
+* 모든 분들은 답을 **02/13(일)** 까지 해주세요. 이후, 발표 주제를 사다리타기로 뽑을 예정입니다.
 
 # (Advanced) Residual? GAN? Diffusion?
 * 뭐 넣을지 고민 중입니다.. 재밌는 주제로 뭐가 있을까요..
